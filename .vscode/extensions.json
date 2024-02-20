@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "almenon.arepl",
+        "njpwerner.autodocstring",
+        "tamasfe.even-better-toml",
+        "ms-python.mypy-type-checker",
+        "ms-python.vscode-pylance",
+        "charliermarsh.ruff"
+    ]
+}
