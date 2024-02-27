@@ -20,5 +20,5 @@ print("✨ Generating Response...")
 # r = chain.invoke({"input": "How to write technical documentation? Give answer in 10 words."})
 
 # print(r)
-for chunk in chain.stream({"input": "Have you ever heard about Vuexy Admin Template?"}):
+for chunk in chain.stream({"input": "Tell me difference between JS & Python"}):
     print(chunk, end="", flush=True)
